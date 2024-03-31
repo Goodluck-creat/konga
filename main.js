@@ -1,0 +1,1 @@
+  $('.carousel').carousel-inner-img({interval:2000 })
